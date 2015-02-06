@@ -27,6 +27,9 @@ https://t37.net/nginx-optimization-understanding-sendfile-tcp_nodelay-and-tcp_no
 https://wiki.mozilla.org/Security/Server_Side_TLS
 http://security.stackexchange.com/questions/51680/optimal-web-server-ssl-cipher-suite-configuration
 
+## SSL performance
+https://www.imperialviolet.org/2010/06/25/overclocking-ssl.html
+
 ## Protocol relative urls
 http://www.paulirish.com/2010/the-protocol-relative-url/
 
